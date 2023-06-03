@@ -1,1 +1,1 @@
-print("Hello all!! Holaaaaa! Blr says hi to indu and goosu ")
+print("Hello all!! Holaaaaa! Namaste! Blr says hi to indu and goosu!"
